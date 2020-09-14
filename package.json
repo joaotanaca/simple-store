@@ -1,0 +1,27 @@
+{
+  "name": "simple-store",
+  "version": "1.0.0",
+  "description": "Simple store with ReactJs and SQLite",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaotanaca/simple-store.git"
+  },
+  "keywords": [
+    "store",
+    "client",
+    "react-simple-store"
+  ],
+  "author": "Tanaca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaotanaca/simple-store/issues"
+  },
+  "homepage": "https://github.com/joaotanaca/simple-store#readme",
+  "devDependencies": {
+    "electron": "^10.1.1"
+  }
+}
